@@ -1,0 +1,29 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    color: #858796;
+    font-size: 16px;
+    background-color: #f8f9fc;
+}
+
+
+.content-header{
+    color: #5a5c69!important;
+    font-weight: 400 !important;
+}
+
+.card{
+    box-shadow: 0 0 6px #00000040;
+}
+
+
+.sidebar i{
+    font-size: 14px !important;
+}
+
+.main-sidebar{
+    background-color: #444446;
+}
+
+.main-header{
+    box-shadow: 0 0 20px #00000050;
+}
